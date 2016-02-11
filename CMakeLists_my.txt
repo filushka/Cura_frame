@@ -1,0 +1,14 @@
+###################
+subdirs( cura )
+subdirs( icons )
+subdirs( plugins )
+subdirs( resources)
+
+add_custom_target( cura_main SOURCES
+    cura_app.py
+    cura.desktop
+    setup.py
+    build.sh
+    )
+####################
+
