@@ -1,3 +1,7 @@
+project(Cura)
+
+cmake_minimum_required(VERSION 2.8.12)
+
 ###################
 subdirs( cura )
 subdirs( icons )

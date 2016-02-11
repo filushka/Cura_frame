@@ -1,0 +1,26 @@
+add_custom_target( machines SOURCES
+	bq_hephestos.json
+	bq_hephestos_2.json
+	bq_hephestos_xl.json
+	bq_witbox.json
+	bq_witbox_2.json
+	dual_extrusion_printer.json
+	fdmprinter.json
+	grr_neo.json
+	m180.json
+	maker_starter.json
+	prusa_i3.json
+	RigidBot.json
+	RigidBotBig.json
+	ultimaker2.json
+	ultimaker2_extended.json
+	ultimaker2_extended_plus.json
+	ultimaker2_extended_plus_025.json
+	ultimaker2_extended_plus_040.json
+	ultimaker2_extended_plus_060.json
+	ultimaker2_extended_plus_080.json
+	ultimaker2_go.json
+	ultimaker2plus.json
+	ultimaker2plus_025.json
+	ultimaker2plus_040.json
+)
