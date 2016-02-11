@@ -1,4 +1,4 @@
-add_custom_target( themes_cura SOURCES
+add_custom_target( themes_cura1 SOURCES
 	LICENSE.txt
 	Roboto-Black.ttf
 	Roboto-BlackItalic.ttf

@@ -1,3 +1,3 @@
-add_custom_target( themes_cura SOURCES
+add_custom_target( images1 SOURCES
 	logo.svg
 )
