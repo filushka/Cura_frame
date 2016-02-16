@@ -1,3 +1,3 @@
-add_custom_target( general SOURCES
+add_custom_target( ultimaker2+ SOURCES
 
 )
