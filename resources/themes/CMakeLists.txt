@@ -3,6 +3,6 @@ add_custom_target( themes_cura SOURCES
     theme.json
 )
 
-subdirs( icons )
-subdirs( fonts )
-subdirs( images )
+subdirs( cura/icons )
+subdirs( cura/fonts )
+subdirs( cura/images )
